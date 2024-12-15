@@ -1,10 +1,10 @@
-# Virtual-Calculator
+# Virtual-Calculator 
 
 ## Overview
 
-This project is an advanced virtual calculator that leverages hand gesture recognition using MediaPipe and a user-friendly interface built with Streamlit. Additionally, it integrates with Google Generative AI to provide content analysis for user inputs, enhancing its functionality beyond basic calculations.
+This project is an advanced virtual calculator that leverages hand gesture recognition using MediaPipe and a user-friendly interface built with Streamlit. Additionally, it integrates with Google Generative AI to provide content analysis for user inputs, enhancing its functionality beyond basic calculations.  
 
-### Features
+## Features
 
 #### Gesture-Based Interaction
  - Draw: Raise the index finger to start drawing.  
@@ -27,7 +27,7 @@ This project is an advanced virtual calculator that leverages hand gesture recog
   - User's drawing is overlaid directly on the live webcam feed, making the experience seamless and real-time.  
 
 
-### Technologies Used
+## Technologies Used
 * MediaPipe: For real-time hand detection and gesture recognition.
 * Streamlit: To build the web interface.
 * OpenCV: For processing webcam feeds and drawing on the canvas.
