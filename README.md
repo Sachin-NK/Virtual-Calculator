@@ -18,7 +18,7 @@ This project is an advanced virtual calculator that leverages hand gesture recog
  * Change the background color to suit user style.  
 
 ### Powered by AI  
-  Once you submit your drawing, the app uses Google Generative AI to:   
+  Once user submit his drawing, the app uses Google Generative AI to:   
    + Identify the mathematical equation user drew.  
    + Solve the equation.  
    + Explain the solution step by step.  
